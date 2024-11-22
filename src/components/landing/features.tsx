@@ -22,14 +22,15 @@ export function Features() {
     {
       title: "Comment Collaboration",
       description:
-        "Share feedback and collaborate with your team in real-time.",
+        "SStreamline teamwork to deliver seamless guest experiences faster.",
       skeleton: <SkeletonThree />,
       className:
         "col-span-6 sm:col-span-3 lg:col-span-3 lg:border-r dark:border-neutral-800",
     },
     {
-      title: "Guest Bill",
-      description: "Manage guest charges for smooth checkout experience.",
+      title: "Analytics Dashboard",
+      description:
+        "Make smarter decisions with insights that drive your hotel's success.",
       skeleton: <SkeletonFour />,
       className:
         "col-span-6 sm:col-span-3 lg:col-span-3 border-b lg:border-none",
